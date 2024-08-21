@@ -1,0 +1,16 @@
+Flask
+pdfminer.six
+langchain
+chroma
+langchain_groq
+sentence-transformers
+huggingface-hub
+transformers
+torch
+python-dotenv
+langchain-community
+chromadb
+langchain-chroma
+langchain-cli
+langchain-google-genai
+
